@@ -2,7 +2,7 @@
 
 > An animation-driven biotechnology landing page built around the idea of biological signals organizing into living structures.
 
-**Live Demo:** https://amazing-clafoutis-d4311b.netlify.app/
+**Live Demo:** https://nexusbiologicalengineering.netlify.app/
 **Repository:** https://github.com/simmo0104/nexus-biological-engineering
 
 ---
