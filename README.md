@@ -393,7 +393,7 @@ npm run preview
 The production build is deployed on Netlify.
 
 **Live Demo:**
-https://amazing-clafoutis-d4311b.netlify.app/
+https://nexusbiologicalengineering.netlify.app/
 
 For a manual deployment:
 
